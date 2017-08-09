@@ -15,13 +15,9 @@ while user_choice == "walk" || user_choice == "run" || user_choice == "home"
     puts "distance from hom is #{distance}"
     puts "Do you want to walk or run"
     user_choice = gets.chomp
-
-  # until user_choice == "home"
-    # if user_choice == "home"
       puts "lazy"
     distance = -1
-
-
+    energy = 0
 
 end
   end
